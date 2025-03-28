@@ -1,2 +1,2 @@
-# SC4001-NNDL-Assignment-
+# SC4001 NNDL Assignment
 Group Assignement - Clothing Classification
